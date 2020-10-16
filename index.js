@@ -1,7 +1,6 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 const chalk = require("chalk");
-const generate = require("./generateMarkdown");
 const generateMarkdown = require('./generateMarkdown');
 
 const questions = [ 
